@@ -1,1 +1,1 @@
-gitinit
+gitinit test 
